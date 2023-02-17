@@ -1,0 +1,9 @@
+{
+  "name": "instagram",
+  "displayName": "instagram",
+  "extra": {
+    "eas": {
+      "projectId": "7745391e-7d81-4dd1-bc47-a8b0c80b1ece"
+    }
+  }
+}
